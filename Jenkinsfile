@@ -102,3 +102,10 @@ pipeline {
         }
     }
 }
+
+
+// Install the 3 new Plugins on Jenkins: 
+HashiCorp Vault 
+HashiCorp Vault Pipeline
+Amazon EC2
+
